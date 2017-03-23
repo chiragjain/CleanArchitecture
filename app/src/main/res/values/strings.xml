@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Clean Architecture</string>
+    <string name="app_description">All architecture is design, but not all design is architecture.</string>
+
+    <!--General-->
+    <string name="label_done">Done</string>
+    <string name="label_ok">OK</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_settings">Settings</string>
+    <string name="label_retry">Retry</string>
+    <string name="msg_loading">Loading&#8230;</string>
+
+    <!-- Login -->
+    <string name="label_email_id">Email Id</string>
+    <string name="label_password">Password</string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="error_msg_invalid_email">Invalid Email Id</string>
+    <string name="error_msg_invalid_password">Invalid Password</string>
+    <string name="msg_signing_in">Signing in&#8230;</string>
+    <string name="msg_login_successful">Login Successful</string>
+
+    <!-- Error helper strings can be found here-->
+    <string name="time_out_error">Connection timed out, Retry</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="network_problem">Network problem, retry</string>
+    <string name="server_error_message">Something went wrong! Retry</string>
+    <string name="error_network_not_available">You are not connected to the network. Please connect to proceed.</string>
+    <string name="label_network">Network</string>
+
+    <!-- Movie Page -->
+    <string name="search">Search</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="type">Type : %s</string>
+    <string name="imdb_id">IMDB Id : %s</string>
+    <string name="error_no_search_query">Search Query is Empty</string>
+    <string name="error_no_result_found">No Result Found!!!</string>
+
+</resources>
