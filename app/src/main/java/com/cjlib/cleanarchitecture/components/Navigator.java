@@ -15,7 +15,7 @@ import com.cjlib.cleanarchitecture.login.LoginActivity;
  */
 public class Navigator {
 
-    BaseActivity activity;
+    private BaseActivity activity;
 
     public Navigator(BaseActivity activity) {
         this.activity = activity;
