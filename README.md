@@ -17,4 +17,4 @@ As per VIPER with some customization, we have following components -
 
 <br />
 
-For more detail go to [this](http://www.google.fr/) article.
+For more detail go to [this](https://medium.com/@chirag.jain5000/unit-testing-in-android-is-a-mess-80694ebbde07) article.
